@@ -55,5 +55,7 @@ module Kevin
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+
+    config.assets.precompile += ['style.css', 'custom.css', 'demo.css', 'font-awesome.css', 'jquery.ba-cond.min.js','modernizr.custom.79639.js','jquery.slitslider.js' ]
   end
 end
