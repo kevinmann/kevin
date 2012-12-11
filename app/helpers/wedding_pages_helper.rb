@@ -1,0 +1,2 @@
+module WeddingPagesHelper
+end
