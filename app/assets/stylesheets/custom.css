@@ -207,6 +207,8 @@ a.white{
 .demo-1 .bg-1 .sl-slide-inner,
 .demo-1 .bg-1 .sl-content-slice {
 	background: #fff;
+	height: 700px;
+
 }
 
 /* Second Slide */
