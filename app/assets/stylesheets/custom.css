@@ -138,6 +138,11 @@ a.white:hover{
     color: #000;
 }
 
+a.white{
+    text-decoration: underline;
+    font-weight: 600;
+}
+
 .wow-content.verse p.cite1{
 	font-size: 10px;
 	padding-top: 10px;
@@ -224,7 +229,7 @@ a.white:hover{
 .demo-1 .bg-3 .sl-slide-inner,
 .demo-1 .bg-3 .sl-content-slice {
 	background: #db84ad;
-     height: 1280px;
+     height: 830px;
 }
 
 .demo-1 .bg-3 .deco {
@@ -252,7 +257,7 @@ a.white:hover{
 .demo-1 .bg-4 .sl-slide-inner,
 .demo-1 .bg-4 .sl-content-slice {
 	background: #5bc2ce;
-     height: 1280px;
+     height: 850px;
 }
 
 .demo-1 .bg-4 .deco {
@@ -278,7 +283,7 @@ a.white:hover{
 .demo-1 .bg-5 .sl-slide-inner,
 .demo-1 .bg-5 .sl-content-slice {
 	background: #6acf9c;
-     height: 1280px;
+     height: 880px;
 }
 
 .demo-1 .bg-5 .deco {
