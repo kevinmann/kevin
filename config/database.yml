@@ -15,6 +15,7 @@
 development:
   adapter: postgresql
   encoding: unicode
+  host: localhost
   database: kevin_development
   pool: 5
   username: kevin
@@ -41,10 +42,11 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
+  host: localhost
   database: kevin_test
   pool: 5
   username: kevin
-  password:
+  password: kevin
 
 production:
   adapter: postgresql
@@ -52,4 +54,4 @@ production:
   database: kevin_production
   pool: 5
   username: kevin
-  password:
+  password: kevin
