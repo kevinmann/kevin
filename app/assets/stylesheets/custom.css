@@ -207,7 +207,7 @@ a.white{
 .demo-1 .bg-1 .sl-slide-inner,
 .demo-1 .bg-1 .sl-content-slice {
 	background: #fff;
-	height: 700px;
+	height: 900px;
 
 }
 
@@ -231,7 +231,7 @@ a.white{
 .demo-1 .bg-3 .sl-slide-inner,
 .demo-1 .bg-3 .sl-content-slice {
 	background: #db84ad;
-     height: 830px;
+     height: 900px;
 }
 
 .demo-1 .bg-3 .deco {
@@ -259,7 +259,7 @@ a.white{
 .demo-1 .bg-4 .sl-slide-inner,
 .demo-1 .bg-4 .sl-content-slice {
 	background: #5bc2ce;
-     height: 850px;
+     height: 900px;
 }
 
 .demo-1 .bg-4 .deco {
@@ -285,7 +285,7 @@ a.white{
 .demo-1 .bg-5 .sl-slide-inner,
 .demo-1 .bg-5 .sl-content-slice {
 	background: #6acf9c;
-     height: 880px;
+     height: 900px;
 }
 
 .demo-1 .bg-5 .deco {
@@ -306,23 +306,6 @@ a.white{
 .demo-1 .bg-5 blockquote:before {
 	color: #ecd82c;
 }
-
-.demo-2 .bg-img-1 {
-	background-image: url(../images/1.jpg);
-}
-.demo-2 .bg-img-2 {
-	background-image: url(../images/2.jpg);
-}
-.demo-2 .bg-img-3 {
-	background-image: url(../images/3.jpg);
-}
-.demo-2 .bg-img-4 {
-	background-image: url(../images/4.jpg);
-}
-.demo-2 .bg-img-5 {
-	background-image: url(../images/5.jpg);
-}
-
 /* Animations for content elements */
 
 .sl-trans-elems .deco{
