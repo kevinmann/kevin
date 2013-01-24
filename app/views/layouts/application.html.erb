@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-		<meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-        <title>Moussa Mann Wedding</title>        
-        <meta name="description" content="Moussa Mann Wedding Information Page" />
-        <meta name="keywords" content="Kevin Mann, Jay Moussa, Jamie Moussa, Moussa-Mann, Wedding, Information, Izmir, Selçuk, Turkey" />
-        <meta name="author" content="Kevin Mann via Codrops" />
-        <link rel="shortcut icon" href="../favicon.ico"> 
-		<link rel="stylesheet" type="text/css" href="assets/demo.css" />
-        <link rel="stylesheet" type="text/css" href="assets/style.css" />
-        <link rel="stylesheet" type="text/css" href="assets/custom.css" />
-        <link rel="stylesheet" href="assets/font-awesome.css">
-		<script type="text/javascript" src="assets/modernizr.custom.79639.js"></script>
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-		<script type="text/javascript" src="assets/jquery.ba-cond.min.js"></script>
-		<script type="text/javascript" src="assets/jquery.slitslider.js"></script>
-		<noscript>
-			<link rel="stylesheet" type="text/css" href="assets/styleNoJS.css" />
-		</noscript>
-    </head>
+    <meta charset="UTF-8">
+    <title>Moussa Mann Wedding</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Google Web Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Oswald|Open+Sans:400,600' rel='stylesheet' type='text/css'>
+    <link href='assets/application.css' rel='stylesheet' type='text/css'>
+
+    <!-- JavaScripts -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="assets/application.js"></script>
+    <script>
+        $(window).load(function(){
+          $("nav").sticky({ topSpacing: 0, className: 'sticky', wrapperClassName: 'my-wrapper' });
+        });
+    </script>
+</head>
 <body>
 
 <%= yield %>
