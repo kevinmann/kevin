@@ -32,7 +32,8 @@
 					thumbnail_navigation    :   0,			// Thumbnail navigation
 					slides 					:  	[			// Slideshow Images
 														{image : '../assets/slider/image5.jpg', title : 'MOUSSA MANN WEDDING JUNE 8TH, 2013', thumb : ''},
-														{image : '../assets/slider/image3.jpg', title : 'JUNE 8TH, 2013 <div class="slidedescription">Though one may be overpowered, <br /> two can defend themselves. <br />A cord of three strands is not quickly broken <br /><br /> - ECCLESIASTES 4:12</div>', thumb : '', url : 'http://themes.tvda.eu/'}
+														{image : '../assets/slider/image1.jpg', title : 'MOUSSA MANN WEDDING JUNE 8TH, 2013', thumb : ''},
+														{image : '../assets/slider/image2.jpg', title : 'MOUSSA MANN WEDDING JUNE 8TH, 2013', thumb : ''}
 												],
 												
 					// Theme Options			   
